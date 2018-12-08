@@ -1,0 +1,14 @@
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\BLL.dll
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\BLL.pdb
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\DAL.dll
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\TModel.dll
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\EntityFramework.dll
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\DAL.pdb
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\DAL.dll.config
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\TModel.pdb
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\bin\Release\EntityFramework.xml
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\obj\Release\BLL.csproj.CopyComplete
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\obj\Release\BLL.dll
+C:\Users\Pradeep\source\repos\TwitterClone\BLL\obj\Release\BLL.pdb

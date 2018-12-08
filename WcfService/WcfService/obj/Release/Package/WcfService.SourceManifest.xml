@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\WcfService\obj\Release\Package\PackageTmp" />
+  <setAcl path="Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\WcfService\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\WcfService\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

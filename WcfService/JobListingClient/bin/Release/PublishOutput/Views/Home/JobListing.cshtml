@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "JobListing";
+}
+
+<h2>JobListing</h2>
+
+<div class="row">
+    @using (Html.BeginForm("JobListing", "Home", FormMethod.Post))
+    {
+            <label id="lblRole">Jobs by Role: </label>
+            @Html.TextBox("txtRole")
+            <input id="goBtn" value="Go" name="search" type="submit" />
+        
+    }
+</div>
+<hr/>
+<table class="table-bordered">
+    <tr>
+    <th>
+       Jobs Listing 
+    </th>
+    </tr>
+    @foreach (var item in ViewData.Model)
+    {
+        <tr>
+            <td>
+                @item
+            </td>
+        </tr>
+    }
+</table>
+<hr/>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="208fcf84-1e64-4d08-b91a-7496db462088" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:61057/JobListingService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="JobListingService.wsdl" MetadataType="Wsdl" ID="fba71736-76ba-43ab-a9b1-85a4c95873fc" SourceId="1" SourceUrl="http://localhost:61057/JobListingService.svc?wsdl" />
+    <MetadataFile FileName="JobListingService.xsd" MetadataType="Schema" ID="6d516862-d0d2-45f7-8b40-6b98023f05c2" SourceId="1" SourceUrl="http://localhost:61057/JobListingService.svc?xsd=xsd0" />
+    <MetadataFile FileName="JobListingService1.xsd" MetadataType="Schema" ID="acd6d6ff-bb6a-4ff6-94d6-9d04d3243509" SourceId="1" SourceUrl="http://localhost:61057/JobListingService.svc?xsd=xsd2" />
+    <MetadataFile FileName="JobListingService2.xsd" MetadataType="Schema" ID="6f404eec-1839-4a03-889d-f0be6bbbddfd" SourceId="1" SourceUrl="http://localhost:61057/JobListingService.svc?xsd=xsd1" />
+    <MetadataFile FileName="JobListingService.disco" MetadataType="Disco" ID="206bebe6-34ac-470f-826c-2e34ed7ff467" SourceId="1" SourceUrl="http://localhost:61057/JobListingService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

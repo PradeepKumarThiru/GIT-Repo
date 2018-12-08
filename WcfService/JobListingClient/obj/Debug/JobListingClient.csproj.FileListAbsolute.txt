@@ -1,0 +1,108 @@
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\ApplicationInsights.config
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\csc.exe
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\System.Collections.Immutable.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\vbc.exe
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\VBCSCompiler.exe
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\roslyn\VBCSCompiler.exe.config
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\JobListingClient.dll.config
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\JobListingClient.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\JobListingClient.pdb
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Antlr3.Runtime.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.Web.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.WindowsServer.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.ApplicationInsights.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.Web.Infrastructure.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Newtonsoft.Json.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.Helpers.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.Mvc.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.Optimization.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.Razor.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.WebPages.Deployment.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.WebPages.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.WebPages.Razor.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\WebGrease.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.Web.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.AI.WindowsServer.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.ApplicationInsights.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.Helpers.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.Mvc.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.Optimization.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.Razor.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.WebPages.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.WebPages.Deployment.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\System.Web.WebPages.Razor.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Antlr3.Runtime.pdb
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\bin\Newtonsoft.Json.xml
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\obj\Debug\JobListingClient.csprojResolveAssemblyReference.cache
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\obj\Debug\JobListingClient.dll
+c:\users\xpthirun\documents\visual studio 2015\Projects\WcfService\JobListingClient\obj\Debug\JobListingClient.pdb
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\ApplicationInsights.config
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\csc.exe
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\System.Collections.Immutable.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\vbc.exe
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\VBCSCompiler.exe
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\roslyn\VBCSCompiler.exe.config
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\JobListingClient.dll.config
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\JobListingClient.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\JobListingClient.pdb
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Antlr3.Runtime.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.Web.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.WindowsServer.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.ApplicationInsights.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.Web.Infrastructure.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Newtonsoft.Json.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.Helpers.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.Mvc.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.Optimization.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.Razor.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.WebPages.Deployment.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.WebPages.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.WebPages.Razor.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\WebGrease.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.Web.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.AI.WindowsServer.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.ApplicationInsights.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.Helpers.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.Mvc.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.Optimization.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.Razor.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.WebPages.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.WebPages.Deployment.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\System.Web.WebPages.Razor.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Antlr3.Runtime.pdb
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\bin\Newtonsoft.Json.xml
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\obj\Debug\JobListingClient.csprojResolveAssemblyReference.cache
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\obj\Debug\JobListingClient.csproj.CoreCompileInputs.cache
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\obj\Debug\JobListingClient.csproj.CopyComplete
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\obj\Debug\JobListingClient.dll
+Z:\Projects\FSD\21 - WCF Assignment - 1 DOTNET\21 - WCF Assignment - 1 DOTNET\WcfService\JobListingClient\obj\Debug\JobListingClient.pdb

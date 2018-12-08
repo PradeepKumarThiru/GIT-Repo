@@ -1,0 +1,14 @@
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\DAL.dll.config
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\DAL.dll
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\DAL.pdb
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\EntityFramework.dll
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\TModel.dll
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\TModel.pdb
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\EntityFramework.xml
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\obj\Release\DAL.dll
+C:\Users\Pradeep\source\repos\TwitterClone\DAL\obj\Release\DAL.pdb
